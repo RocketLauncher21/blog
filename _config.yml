@@ -22,7 +22,7 @@ description: Personal website and (somewhat) tech focused blog.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://rocketlauncher21.github.io/blog"
 
 github:
   username: RocketLauncher21 # change to your GitHub username
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "rocketlauncher21.github.io/blog"
+baseurl: "https://rocketlauncher21.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
